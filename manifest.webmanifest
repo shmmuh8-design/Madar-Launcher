@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "مدار — لانشر ثلاثي الأبعاد",
+  "short_name": "مدار",
+  "description": "لانشر ثلاثي الأبعاد بأسطوانة دوّارة، مع الطقس وأوقات الصلاة والأخبار وساعة كبيرة.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#04061a",
+  "theme_color": "#04061a",
+  "dir": "rtl",
+  "lang": "ar",
+  "categories": ["personalization", "productivity", "utilities"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "screenshots": [
+    { "src": "screenshot-1.png", "sizes": "1080x2160", "type": "image/png", "form_factor": "narrow", "label": "الشاشة الرئيسية" },
+    { "src": "screenshot-2.png", "sizes": "1080x2160", "type": "image/png", "form_factor": "narrow", "label": "الطقس وأوقات الصلاة" },
+    { "src": "screenshot-3.png", "sizes": "1080x2160", "type": "image/png", "form_factor": "narrow", "label": "الأخبار" },
+    { "src": "screenshot-4.png", "sizes": "1080x2160", "type": "image/png", "form_factor": "narrow", "label": "كل الشاشات" }
+  ]
+}
